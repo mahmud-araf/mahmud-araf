@@ -11,25 +11,25 @@
 
 ## 💫 About Me:
 
-Hi, I'm **Abdullah Al Mahmud**, but you can call me **Araf**. I'm currently pursuing my undergraduate degree in Computer Science and Engineering (CSE) at the University of Dhaka.
+Hi, I'm **Abdullah Al Mahmud (Araf)**. I'm a final-year Computer Science and Engineering student at the University of Dhaka, currently working as a Software Engineer Intern at Mass Holding Inc., Tokyo, Japan.
 
 I am a developer with a diverse and adaptable skillset, dedicated to building reliable and user-friendly digital solutions. My work is driven by a strong interest in solving real-world problems and creating applications that are both practical and easy to use.
 
-I have experience across the full stack of development. On the frontend, I use Next.js to build modern, responsive web interfaces that focus on performance and usability. On the backend, I develop scalable and secure APIs using Spring Boot and FastAPI, ensuring efficient communication between systems.
+I have experience across the full stack of development. On the frontend, I use **Next.js** and **Tailwind CSS** to build modern, responsive web interfaces that focus on performance and usability. On the backend, I develop scalable and secure APIs using **Spring Boot** and **FastAPI**, ensuring efficient communication between systems.
 
-In addition to web development, I use Capacitor to create mobile applications from web technologies, allowing for consistent experiences across devices.
+In addition to web development, I use React Native and Capacitor to create mobile applications, allowing for consistent experiences across devices.
 
-For database management, I work with MySQL and PostgreSQL for structured data, and Firebase for real-time and NoSQL data needs.
+For database management, I work with **MySQL** and **PostgreSQL** for structured data, and Firebase for real-time and NoSQL data needs.
 
-I am also skilled in DevOps practices, using tools like Docker for containerization and GitHub Actions for setting up continuous integration and deployment pipelines. I have experience working with AWS to manage cloud infrastructure, deploy applications, and ensure reliability and scalability.
+I am also skilled in DevOps practices, using tools like **Docker** for containerization and **GitHub Actions** for setting up continuous integration and deployment pipelines. I have experience working with AWS to manage cloud infrastructure, deploy applications, and ensure reliability and scalability.
 
-I have extensive experience integrating AI and machine learning technologies into applications, working with OpenAI's GPT models, Google Gemini, and advanced frameworks like LangChain and LangGraph to build intelligent solutions that enhance user experiences and automate complex processes.
+I have extensive experience integrating AI and machine learning technologies into applications, working with OpenAI's GPT models, Google Gemini, and advanced frameworks like **LangChain** and **LangGraph** to build intelligent solutions that enhance user experiences and automate complex processes.
 
-I am always eager to learn new technologies and improve my skills. I actively take part in hackathons, where I've had the opportunity to test my abilities in high-pressure environments including achieving awards in multiple national-level hackathons.
+I'm a passionate problem solver and an active hackathon participant — with 4 national championships, 4 first runner-up, and 1 second runner-up titles across major national level hackathons. These experiences taught me to thrive under pressure and transform ideas into impactful, production-ready prototypes.
 
 I believe in using technology to make a meaningful impact, and I'm committed to building applications that are efficient, well-designed, and easy to use.
 
-**Let's build something great together!**
+**Let's build something amazing together. Happy Coding!**
 
 ## 🌐 Socials:
 
@@ -109,7 +109,7 @@ I believe in using technology to make a meaningful impact, and I'm committed to 
 ![github-profile-summary-card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahmud-Araf&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=true)<br>
 
 <!--![github-readme-stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mahmud-Araf&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/> -->
-![github-streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=Mahmud-Araf&theme=tokyonight&hide_border=true)<br>
+<!--![github-streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=Mahmud-Araf&theme=tokyonight&hide_border=true)<br>-->
 <!--![github-top-langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mahmud-Araf&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)-->
 
 ---
