@@ -11,25 +11,23 @@
 
 ## 💫 About Me:
 
-Hi, I'm **Abdullah Al Mahmud (Araf)**. I'm a final-year Computer Science and Engineering student at the University of Dhaka, currently working as a Software Engineer Intern at Mass Holding Inc., Tokyo, Japan.
+Hi, I'm Abdullah Al Mahmud (Araf), a final-year Computer Science and Engineering student at the University of Dhaka.
 
-I am a developer with a diverse and adaptable skillset, dedicated to building reliable and user-friendly digital solutions. My work is driven by a strong interest in solving real-world problems and creating applications that are both practical and easy to use.
+I’m a full-stack developer with a versatile skill set, focused on building reliable, scalable, and user-friendly applications. I enjoy solving real-world problems and creating products that are both practical and intuitive.
 
-I have experience across the full stack of development. On the frontend, I use **Next.js** and **Tailwind CSS** to build modern, responsive web interfaces that focus on performance and usability. On the backend, I develop scalable and secure APIs using **Spring Boot** and **FastAPI**, ensuring efficient communication between systems.
+On the frontend, I work with Next.js and Tailwind CSS to build modern, high-performance interfaces. On the backend, I develop secure and scalable APIs using FastAPI and Spring Boot. I also build cross-platform mobile applications using React Native and Capacitor.
 
-In addition to web development, I use React Native and Capacitor to create mobile applications, allowing for consistent experiences across devices.
+I have experience working with MySQL, PostgreSQL, and Firebase, and I’m comfortable designing systems that handle both structured and real-time data.
 
-For database management, I work with **MySQL** and **PostgreSQL** for structured data, and Firebase for real-time and NoSQL data needs.
+I follow DevOps best practices using Docker and GitHub Actions, and I have hands-on experience with AWS for deployment, scalability, and infrastructure management.
 
-I am also skilled in DevOps practices, using tools like **Docker** for containerization and **GitHub Actions** for setting up continuous integration and deployment pipelines. I have experience working with AWS to manage cloud infrastructure, deploy applications, and ensure reliability and scalability.
+I’ve also worked extensively with AI integrations, using tools like OpenAI GPT, Google Gemini, LangChain, and LangGraph to build intelligent, automation-driven features.
 
-I have extensive experience integrating AI and machine learning technologies into applications, working with OpenAI's GPT models, Google Gemini, and advanced frameworks like **LangChain** and **LangGraph** to build intelligent solutions that enhance user experiences and automate complex processes.
+Beyond development, I’m an active hackathon participant with multiple national-level achievements, where I’ve learned to build fast, think critically, and deliver impactful solutions under pressure.
 
-I'm a passionate problem solver and an active hackathon participant — with 4 national championships, 4 first runner-up, and 1 second runner-up titles across major national level hackathons. These experiences taught me to thrive under pressure and transform ideas into impactful, production-ready prototypes.
+I’m passionate about building meaningful products and continuously improving my skills.
 
-I believe in using technology to make a meaningful impact, and I'm committed to building applications that are efficient, well-designed, and easy to use.
-
-**Let's build something amazing together. Happy Coding!**
+Let’s build something amazing 🚀
 
 ## 🌐 Socials:
 
