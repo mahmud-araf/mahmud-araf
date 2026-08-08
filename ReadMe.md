@@ -50,7 +50,7 @@ I build **production-grade full-stack systems** with a strong focus on **AI/ML i
 
 <div align="center">
 
-| 🥇 Position | 🏟️ Hackathon | 🏛️ Organizer | 💡 Project |
+| Position | Hackathon | Organizer | Project |
 |:-----------:|:------------|:------------|:----------|
 | 🥇 **Champion** | InnovateX 2025 | Bangladesh University of Business & Technology | [Neutrio](https://www.abdullahalmahmud.com/project?id=15) — AI-Powered Food Waste Management Platform |
 | 🥇 **Champion** | VisionX 2025 | University of Dhaka | [Sensei](https://www.abdullahalmahmud.com/project?id=12) — Agentic AI Ed-Tech Platform |
@@ -93,7 +93,7 @@ I build **production-grade full-stack systems** with a strong focus on **AI/ML i
 
 ## 💼 Work Experience
 
-| 🏢 Company | 📍 Location | 🎯 Role | 📅 Period |
+| Company | Location | Role | Period |
 |:----------|:-----------|:-------|:---------|
 | **One Degree Labs** | Los Angeles, CA, USA | Founding Software Engineer | Nov 2025 – Present |
 | **Mass Holding Co., Ltd** | Tokyo, Japan | Software Engineer | Feb 2026 – Present |
