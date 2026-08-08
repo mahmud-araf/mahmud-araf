@@ -56,7 +56,7 @@ I build **production-grade full-stack systems** with a strong focus on **AI/ML i
 | 🥇 **Champion** | VisionX 2025 | University of Dhaka | [Sensei](https://www.abdullahalmahmud.com/project?id=12) — Agentic AI Ed-Tech Platform |
 | 🥇 **Champion** | Hack The AI | Green University of Bangladesh | [Sensei](https://www.abdullahalmahmud.com/project?id=12) — Agentic AI Ed-Tech Platform |
 | 🥇 **Champion** | BUP CSE Tech Carnival 2025 | Bangladesh University of Professionals | [BizPilot](https://www.abdullahalmahmud.com/project?id=14) — Agentic AI Business Advisor |
-| 🥈 **1st Runner Up** | Bitfest 2025 | KUET | [Bayanno.ai](https://www.abdullahalmahmud.com/project?id=7) — AI Banglish-to-Bangla/English Translation & Real-Time Collaborative Editor |
+| 🥈 **1st Runner Up** | Bitfest 2025 | KUET | [Bayanno.ai](https://www.abdullahalmahmud.com/project?id=7) — AI-Powered Document Management & Translation Platform |
 | 🥈 **1st Runner Up** | Code Samurai 2024 | University of Dhaka + BJIT Japan | [Ecosync](https://www.abdullahalmahmud.com/project?id=3) — Smart Waste Management System |
 | 🥈 **1st Runner Up** | LUCC Carnival Chapter 2 | Leading University, Sylhet | [MediNest](https://www.abdullahalmahmud.com/project?id=5) — AI Healthcare Platform |
 | 🥈 **1st Runner Up** | Therap JavaFest 2023 | Therap BD Ltd. | [HealTechBD](https://www.abdullahalmahmud.com/project?id=1) — AI Healthcare Platform |
