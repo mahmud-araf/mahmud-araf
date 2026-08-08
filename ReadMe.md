@@ -193,6 +193,6 @@ I build **production-grade full-stack systems** with a strong focus on **AI/ML i
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=000000)](https://linkedin.com/in/abdullah-al-mahmud-5074b7224)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=googlechrome&logoColor=ffffff&labelColor=000000)](https://www.abdullahalmahmud.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,100:000000&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:000000&height=120&section=footer" />
 
 </div>
