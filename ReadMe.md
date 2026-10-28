@@ -77,11 +77,11 @@ I build **production-grade full-stack systems** with a strong focus on **AI/ML i
 
 | Project | Description | Tech Stack | Links |
 |:--------|:------------|:-----------|:------|
+| 🚀 **SpacePOP** | Shopify app — AI-powered mobile-first pop-ups with swipe/tap interactions, AI timing & A/B testing | `Next.js` `TypeScript` `Shopify` `GraphQL` `Prisma` `PostgreSQL` | [SpacePOP](https://spacepop.ai) |
+| 🛍️ **Boomerang Magic** | Shopify app — transforms product packaging into growth via dynamic QR codes, post-purchase flows & analytics | `Next.js` `TypeScript` `Shopify` `GraphQL` `Prisma` `PostgreSQL` | [Boomerang Magic](https://boomerangmagic.com) |
 | 🩸 **Donoro** | Blood donation platform — proximity-based donor discovery, real-time coordination, live on Google Play | `React Native` `FastAPI` `PostgreSQL` `Redis` `WebSocket` | [Details](https://www.abdullahalmahmud.com/project?id=17) · [Play Store](https://play.google.com/store/apps/details?id=com.donoro.app) |
 | 🚁 **SkyJARVIS** | Autonomous AI drone agent — natural language → flight commands, cyclic state-machine, multi-layer guardrails | `React Native` `FastAPI` `LangGraph` `MAVSDK` `PX4` | [Details](https://www.abdullahalmahmud.com/project?id=16) |
 | 💰 **FastHisaab** | Offline-first personal finance app — accounts, loans, debt tracking, spending insights | `React Native` `Expo` `SQLite` `Vitest` | [Details](https://www.abdullahalmahmud.com/project?id=18) · [Play Store](https://play.google.com/store/apps/details?id=com.fasthisaab.app) |
-| 🛍️ **Boomerang Magic** | Shopify app — transforms product packaging into growth via dynamic QR codes, post-purchase flows & analytics | `Next.js` `TypeScript` `Shopify` `GraphQL` `Prisma` `PostgreSQL` | [Boomerang Magic](https://boomerangmagic.com) |
-| 🚀 **SpacePOP** | Shopify app — AI-powered mobile-first pop-ups with swipe/tap interactions, AI timing & A/B testing | `Next.js` `TypeScript` `Shopify` `GraphQL` `Prisma` `PostgreSQL` | [SpacePOP](https://spacepop.ai) |
 
 </div>
 
